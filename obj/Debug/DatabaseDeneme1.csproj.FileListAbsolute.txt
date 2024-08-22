@@ -1,0 +1,10 @@
+C:\repo\DatabaseDeneme1\bin\Debug\DatabaseDeneme1.exe.config
+C:\repo\DatabaseDeneme1\bin\Debug\DatabaseDeneme1.exe
+C:\repo\DatabaseDeneme1\bin\Debug\DatabaseDeneme1.pdb
+C:\repo\DatabaseDeneme1\obj\Debug\DatabaseDeneme1.csproj.AssemblyReference.cache
+C:\repo\DatabaseDeneme1\obj\Debug\DatabaseDeneme1.Form1.resources
+C:\repo\DatabaseDeneme1\obj\Debug\DatabaseDeneme1.Properties.Resources.resources
+C:\repo\DatabaseDeneme1\obj\Debug\DatabaseDeneme1.csproj.GenerateResource.cache
+C:\repo\DatabaseDeneme1\obj\Debug\DatabaseDeneme1.csproj.CoreCompileInputs.cache
+C:\repo\DatabaseDeneme1\obj\Debug\DatabaseDeneme1.exe
+C:\repo\DatabaseDeneme1\obj\Debug\DatabaseDeneme1.pdb
